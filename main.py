@@ -8,7 +8,7 @@ import os
 intents = discord.Intents.default()
 intents.message_content = True
 
-TOKEN = os.getenv(MTM5NzgyNTE0MDk5NzM1NzU5OA.GwWm2Z.zb32KAuzAtS7Q9yw5NEXOOyaQwpckH_RRualok)
+TOKEN = os.getenv(MTM5NzgyNTE0MDk5NzM1NzU5OA.GlEdcH.y2yHiV847pDLiCjliuJ8wgCpHputxDRt_DmQVg)
 bot = commands.Bot(command_prefix="!", intents=intents)
 tree = bot.tree
 
