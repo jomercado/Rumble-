@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ape #1",
+    "image": "https://example.com/ape1.png",
+    "overall_strength": 80,
+    "attack": 15,
+    "defense": 10,
+    "stamina": 90
+  },
+  {
+    "name": "Alien #7",
+    "image": "https://example.com/alien7.png"
+  }
+]
